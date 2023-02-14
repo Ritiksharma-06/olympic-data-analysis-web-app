@@ -1,4 +1,4 @@
-# give an star for all projects
+# give a star for all projects
 # made by Ritik Sharma
 # olympics-data-analysis-web-app
 A Streamlit web application for the analysis of olympics dataset
